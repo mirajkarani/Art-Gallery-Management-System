@@ -9,7 +9,7 @@
 
 # About Art Gallery Management
 
-Background:
+**Background:**
 The primary purpose of the Art Gallery Management System is to have an organized and easily
 accessible Virtual Art Gallery. This will provide a platform for artists to showcase and sell their art. It also
 provides easy availability and access of arts and artists to customers via events like exhibitions and
@@ -18,7 +18,7 @@ their full extent. With a rapidly increasing consumer base, it is of utmost impo
 database system. Taking this into consideration, we aim to implement a systematic, structured, and
 dynamic database management system.
 
-Mission Objectives:
+**Mission Objectives:**
 • Art Gallery Management System will provide a platform for managing information regarding
 customers, artists, arts, and orders
 • Customers can navigate through details regarding arts, orders, transactions, artists and events
@@ -27,7 +27,7 @@ art, customers, artists and events
 • The administration team can keep track of information concerning arts, customers, transactions
 and orders
 
-Key Design Decisions
+**Key Design Decisions**
 • Art Gallery is visited by ZERO or MORE customer
 • Art Gallery MUST HAVE ONE or MORE staff
 • Art Gallery MAY HOST ZERO or MORE event
@@ -53,7 +53,7 @@ Key Design Decisions
 • One order MAY HAVE a delivery
 • One delivery MUST HAVE ONE and ONLY ONE order
 
-Software Requirements:
+**Software Requirements:**
 1. Microsoft SQL Server Management Studio 18
 2. Tableau
 3. Draw.io
