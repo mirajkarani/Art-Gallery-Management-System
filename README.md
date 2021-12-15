@@ -19,39 +19,39 @@ database system. Taking this into consideration, we aim to implement a systemati
 dynamic database management system.
 
 **Mission Objectives:**
-• Art Gallery Management System will provide a platform for managing information regarding
+1. Art Gallery Management System will provide a platform for managing information regarding
 customers, artists, arts, and orders
-• Customers can navigate through details regarding arts, orders, transactions, artists and events
-• The administration team can add and modify the data concerning order updates, availability of
+2. Customers can navigate through details regarding arts, orders, transactions, artists and events
+3. 3. The administration team can add and modify the data concerning order updates, availability of
 art, customers, artists and events
-• The administration team can keep track of information concerning arts, customers, transactions
+4. The administration team can keep track of information concerning arts, customers, transactions
 and orders
 
 **Key Design Decisions**
-• Art Gallery is visited by ZERO or MORE customer
-• Art Gallery MUST HAVE ONE or MORE staff
-• Art Gallery MAY HOST ZERO or MORE event
-• Art Gallery MUST HAVE affiliation with ONE or MORE artists
-• One artist MUST PRODUCE ONE or MORE artwork
-• One artwork MUST BE created by ONE and ONLY ONE artist
-• One artwork MAY BE present at an event
-• One event MUST HAVE ONE or MORE artwork
-• One artwork MAY BE rented via ONE or MORE rentals
-• One rental MUST BE agreed upon to rent ONE and ONLY ONE artwork
-• One artwork MAY BE ordered via ONE or MORE orders
-• One order MAY contain ONE or MORE artwork
-• One rental MUST BE a rental agreement for ONE and ONLY ONE customer
-• One customer MAY BE renting ONE or MORE rental
-• One customer MAY BE placing ONE or MORE order
-• One order MUST BE placed by ONE and ONLY ONE customer
-• One customer MAY DO ZERO or MORE payment
-• One payment MUST BELONG to ONE and ONLY ONE customer
-• One customer MAY DO one or more booking
-• One booking MUST BE placed by ONE and ONLY ONE customer
-• One event MAY HAVE ONE or MORE booking
-• One booking MUST BELONG to ONE and ONLY ONE event
-• One order MAY HAVE a delivery
-• One delivery MUST HAVE ONE and ONLY ONE order
+1. Art Gallery is visited by ZERO or MORE customer
+2. Art Gallery MUST HAVE ONE or MORE staff
+3. Art Gallery MAY HOST ZERO or MORE event
+4. Art Gallery MUST HAVE affiliation with ONE or MORE artists
+5. One artist MUST PRODUCE ONE or MORE artwork
+6. One artwork MUST BE created by ONE and ONLY ONE artist
+7. One artwork MAY BE present at an event
+8. One event MUST HAVE ONE or MORE artwork
+9. One artwork MAY BE rented via ONE or MORE rentals
+10. One rental MUST BE agreed upon to rent ONE and ONLY ONE artwork
+11. One artwork MAY BE ordered via ONE or MORE orders
+12. One order MAY contain ONE or MORE artwork
+13. One rental MUST BE a rental agreement for ONE and ONLY ONE customer
+14. One customer MAY BE renting ONE or MORE rental
+15. One customer MAY BE placing ONE or MORE order
+16. One order MUST BE placed by ONE and ONLY ONE customer
+17. One customer MAY DO ZERO or MORE payment
+18. One payment MUST BELONG to ONE and ONLY ONE customer
+19. One customer MAY DO one or more booking
+20. One booking MUST BE placed by ONE and ONLY ONE customer
+21. One event MAY HAVE ONE or MORE booking
+22. One booking MUST BELONG to ONE and ONLY ONE event
+23. One order MAY HAVE a delivery
+24. One delivery MUST HAVE ONE and ONLY ONE order
 
 **Software Requirements:**
 1. Microsoft SQL Server Management Studio 18
