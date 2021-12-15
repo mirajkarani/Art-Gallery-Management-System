@@ -22,7 +22,7 @@ dynamic database management system.
 1. Art Gallery Management System will provide a platform for managing information regarding
 customers, artists, arts, and orders
 2. Customers can navigate through details regarding arts, orders, transactions, artists and events
-3. 3. The administration team can add and modify the data concerning order updates, availability of
+3. The administration team can add and modify the data concerning order updates, availability of
 art, customers, artists and events
 4. The administration team can keep track of information concerning arts, customers, transactions
 and orders
